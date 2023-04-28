@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 # Tony's self hosted non-custodial zap collector, built to support his efforts of promoting censorship resistant protocols.
