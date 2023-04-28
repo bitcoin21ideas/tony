@@ -4,4 +4,4 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 
-accent_color: #FF9500
+accent_color: '#FF9500'
