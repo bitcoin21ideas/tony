@@ -67,6 +67,13 @@ Bitcoin Herald
 
 I find sharing Bitcoin knowledge in the Russian speaking community important, as residents of Russian speaking countries are in need of censorship resistant tool (even though many are still not aware of their need).
 
+My other resources
+-----------------
+
+* [YouTube channel](https://www.youtube.com/@21ideas/): dozens of educational Bitcoin videos including translations of works by Reason TV, Swan, Alex Gladstein, Nic Carter, Brandon Quittem and many more
+
+* [21ideas podcast](https://podcasters.spotify.com/pod/show/tony-lightning): dozens of audio materials from articles to books and podcasts.
+
 ***
 
 # Support
