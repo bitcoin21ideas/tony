@@ -11,8 +11,8 @@ Hi, my name is Tony, and my goal for the past 4 years has been educating the cur
 # Reach out:
 
 * Nostr: `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
-* Telegram: https://t.me/tony_lightning
-* Mail: lightning_tony@protonmail.com
+* Telegram: [Tony Lightning](https://t.me/tony_lightning)
+* Mail: [lightning_tony@protonmail.com](mailto:lightning_tony@protonmail.com)
 
 ***
 
