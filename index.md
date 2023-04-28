@@ -2,15 +2,13 @@
 layout: default
 ---
 
-# Tony's self hosted non-custodial zap collector, built to support his efforts of promoting censorship resistant protocols.
-
 ![avatar](https://nostr.build/p/nb6717.png)
 
 Hi, my name is Tony, and my goal for the past 4 years has been educating the curious minds on sound money, censorship resistance, freedom, privacy, and security. This page is meant to highlight what I believe my greatest achievements are and try to find some support from the community for me to continue my work. All materials I produce are distributed freely, never paywalled or hidden from the ones in need of knowledge, and will always remain that way. Information must be set free and I'm doing my best to make it happen!
 
 ***
 
-Reach me on:
+# Reach out:
 
 * Nostr: `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
 * Telegram: https://t.me/tony_lightning
@@ -18,11 +16,13 @@ Reach me on:
 
 ***
 
-That said, my native language is Russian and most of my work is dedicated to educating the Russian-speaking community, however I am working on a few projects in English:
+My native language is Russian and most of my work is focused on educating the Russian-speaking community, however I am working on a few projects in **English**:
 
 -   [BitCal](https://bitcal.21ideas.org/about/) -- a calendar of the most important historical Bitcoin events. The website already hosts the historical events and my next goal is to prepare a calendar that everyone will be able to download to their smartphone and a Nostr bot that will be notifying the Bitcoin history freaks by relays.
 
 -   [Nostr Guides](https://habla.news/p/npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7) -- I am a resident on Habla News, where I post concise guides on how to best interact with Nostr and corresponding apps and tools.
+
+***
 
 My work in my native language is much more vast:
 
@@ -66,6 +66,10 @@ Bitcoin Herald
 [1008 Blocks Later](https://www.21ideas.org/1008-blocks-later/) is a weekly podcast based on Bitcoin Herald, where we invite prominent Russian-speaking bitcoiners and discuss the most important (and sometimes dangerous) events of the past week. It aims to raise Bitcoin awareness and push adoption in the region.
 
 I find sharing Bitcoin knowledge in the Russian speaking community important, as residents of Russian speaking countries are in need of censorship resistant tool (even though many are still not aware of their need).
+
+***
+
+# Support
 
 Please support my work, so I can continue spreading the Bitcoin word:
 
