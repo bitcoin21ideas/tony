@@ -18,7 +18,7 @@ Hi, my name is Tony, and my goal for the past 4 years has been educating the cur
 
 My native language is Russian and most of my work is focused on educating the Russian-speaking community, however I am working on a few projects in **English**:
 
--   [BitCal](https://bitcal.21ideas.org/about/) -- a calendar of the most important historical Bitcoin events. The website already hosts the historical events and my next goal is to prepare a calendar that everyone will be able to download to their smartphone and a Nostr bot that will be notifying the Bitcoin history freaks by relays.
+-   [BitCal](https://bitcal.21ideas.org/about/) -- a calendar of the most important historical Bitcoin events. The website already hosts the historical events and my next goal is to prepare a calendar that everyone will be able to download to their smartphone and a Nostr bot that will be notifying the Bitcoin history geeks by relays.
 
 -   [Nostr Guides](https://habla.news/p/npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7) -- I am a resident on Habla News, where I post concise guides on how to best interact with Nostr and corresponding apps and tools.
 
@@ -80,7 +80,7 @@ My other resources
 
 Please support my work, so I can continue spreading the Bitcoin word:
 
-**LN address:* tony@nostr.21ideas.org
+**LN address:** [tony@nostr.21ideas.org](lightning:tony@nostr.21ideas.org)
 
 **LNURL:** `LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0XPUX2EPJXUERXCTRV3JXXDTZXCMKX7SFZRP`
 
