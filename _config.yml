@@ -3,3 +3,5 @@ description: zap collector page, built to support his efforts of promoting censo
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+
+accent_color: #FF9500
