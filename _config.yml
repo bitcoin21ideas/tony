@@ -1,8 +1,8 @@
 title: Tony's 
-description: zap collector page, built to support efforts of promoting censorship resistant protocols..
+description: About & zap collector page
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
-accent_color: '#FF9500'
+accent_color: #FF9500
 
 $primary-color: #FF9500;
