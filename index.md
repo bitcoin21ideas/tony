@@ -2,9 +2,9 @@
 layout: default
 ---
 
-![avatar](https://nostr.build/p/nb6717.png)
+![avatar](https://i.nostr.build/x9LV.png)
 
-Hi, my name is Tony, and my goal for the past 4 years has been educating the curious minds on sound money, censorship resistance, freedom, privacy, and security. This page is meant to highlight what I believe my greatest achievements are and try to find some support from the community for me to continue my work. All materials I produce are distributed freely, never paywalled or hidden from the ones in need of knowledge, and will always remain that way. Information must be set free and I'm doing my best to make it happen!
+Hi, my name is Tony, and since 2019 I've been educating the curious minds on sound money, censorship resistance, freedom, privacy, and security. This page is meant to highlight what I believe my greatest achievements are and connect with like-minded people to collaborate on exciting projects and bring value to the society. All materials I produce are distributed freely, never paywalled or hidden from the ones craving for knowledge, and will always remain that way. Information must be set free and I'm doing my best to make it happen!
 
 ***
 
@@ -21,6 +21,8 @@ My native language is Russian and most of my work is focused on educating the Ru
 -   [BitCal](https://bitcal.21ideas.org/about/) -- a calendar of the most important historical Bitcoin events. The website already hosts the historical events and my next goal is to prepare a calendar that everyone will be able to download to their smartphone and a Nostr bot that will be notifying the Bitcoin history geeks by relays.
 
 -   [Nostr Guides](https://habla.news/p/npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7) -- I am a resident on Habla News, where I post concise guides on how to best interact with Nostr and corresponding apps and tools.
+
+-   [Bitcoin Herald](https://habla.news/herald) -- an experiment of mine that allowed me to practice covering tech news while trying numerous approaches of lurnig readers from traditional patforms to Nostr. Currently in hybernation.
 
 ***
 
@@ -44,6 +46,11 @@ I've translated (or took active part in translating) and shared a number of [boo
 -   [The Blocksize War](https://www.21ideas.org/book-the-blocksize-war/) by Jonathan Bier.
 
 The project is being maintained for the people of 🇷🇺, 🇺🇦, 🇰🇿, 🇺🇿, 🇦🇲, 🇬🇪, 🇦🇿, 🇰🇬, 🇲🇩, 🇹🇯, 🇧🇾, and many more... 🧡
+
+New 21ideas
+-----------
+
+The original 21ideas is now being moved to a new open source platform, Hugo, with a goal of making the platform community-driven, open and more functional. See the GitHub repo [here](https://github.com/21ideas-org/21ideas.org).
 
 Bitcoin for Everyone
 --------------------
@@ -80,7 +87,7 @@ My other resources
 
 Please support my work, so I can continue spreading the Bitcoin word:
 
-**LN address:** [tony@nostr.21ideas.org](lightning:tony@nostr.21ideas.org)
+**LN address:** [tony@bitcoin-herald.org](lightning:tony@bitcoin-herald.org)
 
 **LNURL:** `LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0XPUX2EPJXUERXCTRV3JXXDTZXCMKX7SFZRP`
 
