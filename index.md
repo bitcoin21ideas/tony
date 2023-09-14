@@ -4,7 +4,7 @@ layout: default
 
 ![avatar](https://i.nostr.build/Ynk6.png)
 
-Hi, my name is Tony, and since 2019 I've been educating the curious minds on sound money, censorship resistance, freedom, privacy, and security. This page is meant to highlight what I believe my greatest achievements are and connect with like-minded people to collaborate on exciting projects and bring value to the society. All materials I produce are distributed freely, never paywalled or hidden from the ones craving for knowledge, and will always remain that way. Information must be set free and I'm doing my best to make it happen!
+My name is Tony and I've been educating the curious minds on sound money, censorship resistance, freedom, privacy, and security since 2019. This page is meant to highlight what I believe my greatest achievements are and connect with like-minded people to collaborate on exciting projects and bring value to the society. All materials I produce are distributed freely, never paywalled or hidden from the ones craving for knowledge, and will always remain that way. Information must be set free and I'm doing my best to make it happen!
 
 ***
 
