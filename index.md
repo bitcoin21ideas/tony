@@ -87,7 +87,7 @@ My other resources
 
 Please support my work, so I can continue spreading the Bitcoin word:
 
-**LN address:** [tony@bitcoin-herald.org](lightning:tony@bitcoin-herald.org)
+**LN address:** [tony@21ideas.org](lightning:tony@21ideas.org)
 
 **LNURL:** `LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0XPUX2EPJXUERXCTRV3JXXDTZXCMKX7SFZRP`
 
